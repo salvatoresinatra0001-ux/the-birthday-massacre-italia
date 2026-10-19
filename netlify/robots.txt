@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the-birthday-massacre-italia.netlify.app/sitemap.xml
