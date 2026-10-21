@@ -62,3 +62,15 @@ Il file `index.html` contiene il markup e i dati (array JavaScript in fondo alla
 ## Licenza e crediti
 
 Il codice di questo repository (struttura e configurazione) è rilasciato senza vincoli particolari. I contenuti relativi alla band (nomi, testi, immagini, copertine, loghi) restano di proprietà dei rispettivi titolari e vengono qui riportati a scopo informativo.
+
+
+## Integrazione editoriale (21 ottobre 2026)
+
+La versione principale è stata estesa in modo additivo: le sezioni precedenti restano disponibili, con nuove sezioni di identità editoriale, cronologia sintetica, fonti e attribuzioni, oltre alla scheda dedicata al concerto italiano del 6 dicembre 2026.
+
+- Pagina evento: [concerto-italia-2026.html](./concerto-italia-2026.html)
+- Documento evento e verifica: [docs/CONCERTO_ITALIA_2026.md](./docs/CONCERTO_ITALIA_2026.md)
+- Registro fonti, licenze e criteri editoriali: [docs/FONTI_E_RIFERIMENTI.md](./docs/FONTI_E_RIFERIMENTI.md)
+- Edizione Netlify di riferimento: https://the-birthday-massacre-italia.netlify.app/
+
+**Ideazione e curatela editoriale:** Salvatore Sinatra. Progetto italiano indipendente, non ufficiale e non affiliato alla band. Immagini, copertine, nomi e marchi restano soggetti ai rispettivi diritti e alle condizioni della fonte originale.
